@@ -1,0 +1,81 @@
+{
+    "signup_moto": {
+        "name": "Samarone Silva",
+        "cpf": "00000000012",
+        "email": "silva@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001-100",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1500",
+            "district": "Água Branca",
+            "complement": "11° andar",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "signup_bicicleta": {
+        "name": "Samarone Silva",
+        "cpf": "00000000012",
+        "email": "silva@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001-100",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1500",
+            "district": "Água Branca",
+            "complement": "11° andar",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Bicicleta",
+        "cnh": "cnh-digital.jpg"
+    },
+    "signup_van": {
+        "name": "Samarone Silva",
+        "cpf": "00000000012",
+        "email": "silva@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001-100",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1500",
+            "district": "Água Branca",
+            "complement": "11° andar",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Pedro Silva",
+        "cpf": "000000000A3",
+        "email": "pedro@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001-100",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1500",
+            "district": "Água Branca",
+            "complement": "11° andar",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "unnamed":{
+        "cpf": "00000000012",
+        "email": "pedro@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001-100",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1500",
+            "district": "Água Branca",
+            "complement": "11° andar",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
