@@ -63,8 +63,6 @@ describe('Cadastro basico', () => {
     })
 
     it('Teste Negativo - Informar CPF inválido', function () {
-
-
         var deliver = signupFactory.deliver()
 
         deliver.cpf = '000000000AA'
@@ -79,7 +77,6 @@ describe('Cadastro basico', () => {
 
 
     context('Preenchimento dos Campos', function () {
-
         const messages = [
             { field: 'nome', output: 'É necessário informar o nome' },
             { field: 'cpf', output: 'É necessário informar o CPF' },
@@ -88,7 +85,6 @@ describe('Cadastro basico', () => {
             { field: 'numero', output: 'É necessário informar o número do endereço' },
             { field: 'método de entrega', output: 'Selecione o método de entrega' },
             { field: 'cnh', output: 'Adicione uma foto da sua CNH' },
-
         ]
 
         before(function () {
