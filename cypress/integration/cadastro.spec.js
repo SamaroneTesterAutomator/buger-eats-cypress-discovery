@@ -3,7 +3,7 @@ import signupFactory from '../factories/SignupFactory'
 import SignUpPage from '../Pages/SignUpPage'
 // import { it } from 'faker/lib/locales'
 
-
+//Suite de teste Cadastro basico
 describe('Cadastro basico', () => {
 
 
